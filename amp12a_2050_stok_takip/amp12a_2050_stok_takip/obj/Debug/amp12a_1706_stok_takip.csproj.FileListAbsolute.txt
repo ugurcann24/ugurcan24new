@@ -1,0 +1,10 @@
+D:\Öğrenci Dosyaları\egecanbayram_1706\1\amp12a_1706_stok_takip\amp12a_1706_stok_takip\bin\Debug\amp12a_1706_stok_takip.exe.config
+D:\Öğrenci Dosyaları\egecanbayram_1706\1\amp12a_1706_stok_takip\amp12a_1706_stok_takip\bin\Debug\amp12a_1706_stok_takip.exe
+D:\Öğrenci Dosyaları\egecanbayram_1706\1\amp12a_1706_stok_takip\amp12a_1706_stok_takip\bin\Debug\amp12a_1706_stok_takip.pdb
+D:\Öğrenci Dosyaları\egecanbayram_1706\1\amp12a_1706_stok_takip\amp12a_1706_stok_takip\obj\Debug\amp12a_1706_stok_takip.csproj.AssemblyReference.cache
+D:\Öğrenci Dosyaları\egecanbayram_1706\1\amp12a_1706_stok_takip\amp12a_1706_stok_takip\obj\Debug\amp12a_1706_stok_takip.Form1.resources
+D:\Öğrenci Dosyaları\egecanbayram_1706\1\amp12a_1706_stok_takip\amp12a_1706_stok_takip\obj\Debug\amp12a_1706_stok_takip.Properties.Resources.resources
+D:\Öğrenci Dosyaları\egecanbayram_1706\1\amp12a_1706_stok_takip\amp12a_1706_stok_takip\obj\Debug\amp12a_1706_stok_takip.csproj.GenerateResource.cache
+D:\Öğrenci Dosyaları\egecanbayram_1706\1\amp12a_1706_stok_takip\amp12a_1706_stok_takip\obj\Debug\amp12a_1706_stok_takip.csproj.CoreCompileInputs.cache
+D:\Öğrenci Dosyaları\egecanbayram_1706\1\amp12a_1706_stok_takip\amp12a_1706_stok_takip\obj\Debug\amp12a_1706_stok_takip.exe
+D:\Öğrenci Dosyaları\egecanbayram_1706\1\amp12a_1706_stok_takip\amp12a_1706_stok_takip\obj\Debug\amp12a_1706_stok_takip.pdb
